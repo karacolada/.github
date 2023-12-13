@@ -2,9 +2,16 @@
 
 This is the GitHub organisation for the [EU FAIR-IMPACT](https://fair-impact.eu/) project.
 
+The repositories you can find here are:
+
+- [MOD](https://github.com/fair-IMPACT/mod): repository for the Metadata for Ontology Description and Publication Ontology
+- [MOD-DCAT-Profile](https://github.com/FAIR-IMPACT/MOD-DCAT-profile): repository for a DCAT-Profile for MOD
+
+
 <!--
 
 **Here are some ideas to get you started:**
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
