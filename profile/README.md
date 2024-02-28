@@ -6,7 +6,7 @@ The repositories you can find here are:
 
 - [MOD](https://github.com/fair-IMPACT/mod): repository for the Metadata for Ontology Description and Publication Ontology
 - [MOD-DCAT-AP-Profile](https://github.com/FAIR-IMPACT/MOD-DCAT-AP-profile): repository for a DCAT-AP-Profile for MOD
-- [MOD-FAIRsFAIR-Profile](https://github.com/FAIR-IMPACT/MOD-FAIRsFAIR-profile): repository for a DCAT-AP-Profile for MOD
+- [MOD-FAIRsFAIR-Profile](https://github.com/FAIR-IMPACT/MOD-FAIRsFAIR-profile): repository for a FAIRsFAIR Profile for MOD
 
 
 <!--
