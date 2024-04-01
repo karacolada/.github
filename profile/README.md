@@ -6,7 +6,7 @@ The repositories you can find here are:
 
 - [MOD](https://github.com/fair-IMPACT/mod): repository for the Metadata for Ontology Description and Publication Ontology
 - [MOD-FAIRsFAIR-Profile](https://github.com/FAIR-IMPACT/MOD-FAIRsFAIR-profile): repository for a FAIRsFAIR Profile for MOD
-
+- [F-UJI FAIR4RS extension](https://github.com/FAIR-IMPACT/fuji): repository for the extension of [F-UJI](https://www.f-uji.net/) with the FAIR4RS metrics.
 
 <!--
 
